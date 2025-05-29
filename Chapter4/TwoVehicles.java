@@ -12,7 +12,6 @@ public class TwoVehicles {
         Vehicles minivan = new Vehicles(); //cria um objeto Vehicle chamado minivan
         Vehicles carroEsportivo = new Vehicles();
 
-        
         int range1;
         int range2;
 
