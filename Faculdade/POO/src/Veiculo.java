@@ -5,4 +5,6 @@ class Veiculo {
     String modelo;
     int anoFabricacao;
 
+    //construtor com o mesmo nome da classe
+    //Veiculo(){}
 }
